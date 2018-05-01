@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1d38b4512d4faf6d16a485fffe2086e3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f9ad8b68e4666a976e883427931a80dd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/5732200587e3f5169d0ba5097bf51740/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9386787e11ab76825a7f8e8c1a23961/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e1c9a39dedbb8804f42f7a513e5ad038/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/92128db90ad8bc4591399cadde0f849a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d35164b9d0065900615968fdf662983/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e893d8cf678bd1aa822009016949037e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eae5e94b6230139eacaf7180d2032d3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2c63b1c8fe94ab611eec921ce74ede52/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/901ed43565e4cfbd9793bb61af5aa704/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/059b5157f7a8285dad11911a0b0d1a55/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1d38b4512d4faf6d16a485fffe2086e3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1d38b4512d4faf6d16a485fffe2086e3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f9ad8b68e4666a976e883427931a80dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f9ad8b68e4666a976e883427931a80dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/5732200587e3f5169d0ba5097bf51740/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/5732200587e3f5169d0ba5097bf51740/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9386787e11ab76825a7f8e8c1a23961/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9386787e11ab76825a7f8e8c1a23961/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e1c9a39dedbb8804f42f7a513e5ad038/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e1c9a39dedbb8804f42f7a513e5ad038/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/92128db90ad8bc4591399cadde0f849a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/92128db90ad8bc4591399cadde0f849a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d35164b9d0065900615968fdf662983/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d35164b9d0065900615968fdf662983/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e893d8cf678bd1aa822009016949037e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e893d8cf678bd1aa822009016949037e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eae5e94b6230139eacaf7180d2032d3/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eae5e94b6230139eacaf7180d2032d3/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2c63b1c8fe94ab611eec921ce74ede52/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2c63b1c8fe94ab611eec921ce74ede52/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/901ed43565e4cfbd9793bb61af5aa704/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/901ed43565e4cfbd9793bb61af5aa704/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/059b5157f7a8285dad11911a0b0d1a55/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/059b5157f7a8285dad11911a0b0d1a55/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1d38b4512d4faf6d16a485fffe2086e3/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:12:5-39:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1d38b4512d4faf6d16a485fffe2086e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1d38b4512d4faf6d16a485fffe2086e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f9ad8b68e4666a976e883427931a80dd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f9ad8b68e4666a976e883427931a80dd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/5732200587e3f5169d0ba5097bf51740/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/5732200587e3f5169d0ba5097bf51740/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9386787e11ab76825a7f8e8c1a23961/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9386787e11ab76825a7f8e8c1a23961/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e1c9a39dedbb8804f42f7a513e5ad038/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e1c9a39dedbb8804f42f7a513e5ad038/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/92128db90ad8bc4591399cadde0f849a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/92128db90ad8bc4591399cadde0f849a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d35164b9d0065900615968fdf662983/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d35164b9d0065900615968fdf662983/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e893d8cf678bd1aa822009016949037e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e893d8cf678bd1aa822009016949037e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eae5e94b6230139eacaf7180d2032d3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eae5e94b6230139eacaf7180d2032d3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2c63b1c8fe94ab611eec921ce74ede52/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2c63b1c8fe94ab611eec921ce74ede52/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/901ed43565e4cfbd9793bb61af5aa704/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/901ed43565e4cfbd9793bb61af5aa704/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/059b5157f7a8285dad11911a0b0d1a55/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/059b5157f7a8285dad11911a0b0d1a55/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:14:9-36
+	android:allowBackup
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:16:9-40
+activity#bitshyd.math.odesolverii.MainActivity
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:18:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:23:27-74
+activity#bitshyd.math.odesolverii.InputsFormSingle
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:26:9-27:20
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:26:19-51
+activity#bitshyd.math.odesolverii.InputsFormSystem
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:28:9-29:20
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:28:19-51
+activity#bitshyd.math.odesolverii.OutputActivity
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:30:16-31:14
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:30:26-56
+activity#bitshyd.math.odesolverii.PlotActivity
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:33:3-43
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:33:13-41
+activity#bitshyd.math.odesolverii.OutputActivitySystem
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:34:4-52
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:34:14-50
+activity#bitshyd.math.odesolverii.OutputActivityMilne
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:35:4-51
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:35:14-49
+activity#bitshyd.math.odesolverii.SingleType
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:36:4-42
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:36:14-40
+activity#bitshyd.math.odesolverii.InputsFormMilne
+ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:37:4-47
+	android:name
+		ADDED from /Users/hitesh/Desktop/odeSolverII/app/src/main/AndroidManifest.xml:37:14-45
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1d38b4512d4faf6d16a485fffe2086e3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/5732200587e3f5169d0ba5097bf51740/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/5732200587e3f5169d0ba5097bf51740/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9386787e11ab76825a7f8e8c1a23961/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9386787e11ab76825a7f8e8c1a23961/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e1c9a39dedbb8804f42f7a513e5ad038/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e1c9a39dedbb8804f42f7a513e5ad038/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/92128db90ad8bc4591399cadde0f849a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/92128db90ad8bc4591399cadde0f849a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d35164b9d0065900615968fdf662983/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7d35164b9d0065900615968fdf662983/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e893d8cf678bd1aa822009016949037e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e893d8cf678bd1aa822009016949037e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eae5e94b6230139eacaf7180d2032d3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9eae5e94b6230139eacaf7180d2032d3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2c63b1c8fe94ab611eec921ce74ede52/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/2c63b1c8fe94ab611eec921ce74ede52/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/901ed43565e4cfbd9793bb61af5aa704/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/901ed43565e4cfbd9793bb61af5aa704/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1d38b4512d4faf6d16a485fffe2086e3/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1d38b4512d4faf6d16a485fffe2086e3/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/059b5157f7a8285dad11911a0b0d1a55/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/059b5157f7a8285dad11911a0b0d1a55/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/hitesh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/059b5157f7a8285dad11911a0b0d1a55/AndroidManifest.xml:26:13-58

@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#ffffff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ORDINARY DIFFERENTIAL EQUATION SOLVER"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:textSize="25dp"
+        android:textColor="#3949AB"/>
+
+    <ImageView
+        android:layout_width="390dp"
+        android:layout_height="240dp"
+        android:src="@drawable/pics"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="bottom">
+
+
+
+    <Button
+        android:id="@+id/single_equation"
+        android:text="@string/single_equation"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:onClick="onSingleEquationClicked"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/buttonbg"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="20dp"
+        />
+
+    <Button
+        android:id="@+id/system_of_equations"
+        android:text="@string/system_of_equations"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/single_equation"
+        android:onClick="onSystemEquationClicked"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/buttonbg2"
+        android:textColor="#ffffff"
+        />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
