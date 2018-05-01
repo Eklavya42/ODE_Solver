@@ -11,7 +11,7 @@
 
 //package <your-package-here>;
 
-package bitshyd.math.odesolverii;
+package clusterInnovationCenter.math.odesolverii;
 import java.math.*;
 import java.util.*;
 
@@ -65,7 +65,7 @@ import java.util.*;
  * <p>
  * Threading Design : [x] Single Threaded  [ ] Threadsafe  [ ] Immutable  [ ] Isolated
  *
- * @author          Lawrence Dol
+ * @author          Hitesh Gautam
  * @since           Build 2008.0426.1016
  */
 

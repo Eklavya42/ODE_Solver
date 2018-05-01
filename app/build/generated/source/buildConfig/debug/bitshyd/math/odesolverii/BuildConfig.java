@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package bitshyd.math.odesolverii;
+package clusterInnovationCenter.math.odesolverii;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");

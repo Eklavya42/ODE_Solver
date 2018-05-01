@@ -1,9 +1,9 @@
-package bitshyd.math.odesolverii;
+package clusterInnovationCenter.math.odesolverii;
 
 
-import bitshyd.math.odesolverii.PlotActivity;
-import bitshyd.math.odesolverii.OutputActivity;
-import bitshyd.math.odesolverii.R;
+import clusterInnovationCenter.math.odesolverii.PlotActivity;
+import clusterInnovationCenter.math.odesolverii.OutputActivity;
+import clusterInnovationCenter.math.odesolverii.R;
 
 
 import android.app.Activity;

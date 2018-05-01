@@ -1,4 +1,4 @@
-package bitshyd.math.odesolverii;
+package clusterInnovationCenter.math.odesolverii;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -20,7 +20,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-import bitshyd.math.odesolverii.EvaluatorEngineForSystem;
+import clusterInnovationCenter.math.odesolverii.EvaluatorEngineForSystem;
 
 import com.jjoe64.graphview.GraphView;
 import com.jjoe64.graphview.GraphViewSeries;

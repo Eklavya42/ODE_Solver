@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package bitshyd.math.odesolverii;
+package clusterInnovationCenter.math.odesolverii;
 
 public final class R {
   public static final class anim {

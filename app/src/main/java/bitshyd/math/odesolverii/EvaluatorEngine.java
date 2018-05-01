@@ -1,10 +1,10 @@
-package bitshyd.math.odesolverii;
+package clusterInnovationCenter.math.odesolverii;
 
 import java.math.*;//BigDecimal and MathContext
 import java.util.ArrayList;
-import bitshyd.math.odesolverii.MathEval;
+import clusterInnovationCenter.math.odesolverii.MathEval;
 
-//import bitshyd.math.odesolver.ScientificCalculator;
+//import clusterInnovationCenter.math.odesolver.ScientificCalculator;
 
 public class EvaluatorEngine {
 	//Instance Variables
